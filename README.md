@@ -1,2 +1,2 @@
 # Algoritmos-ED
-Ventajas de desventajas de algoritmo burbuja
+Ventajas y desventajas de algoritmo burbuja
